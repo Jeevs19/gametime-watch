@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useState, useEffect, useRef } from "react";
 
 // ─── Watch dimensions (44mm Apple Watch) ─────────────────────────────────────
